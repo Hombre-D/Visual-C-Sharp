@@ -1,0 +1,11 @@
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\bin\Debug\netcoreapp2.0\Invoice.deps.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\bin\Debug\netcoreapp2.0\Invoice.runtimeconfig.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\bin\Debug\netcoreapp2.0\Invoice.runtimeconfig.dev.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\bin\Debug\netcoreapp2.0\Invoice.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\bin\Debug\netcoreapp2.0\Invoice.pdb
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\obj\Debug\netcoreapp2.0\Invoice.csprojResolveAssemblyReference.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\obj\Debug\netcoreapp2.0\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\obj\Debug\netcoreapp2.0\Invoice.AssemblyInfoInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\obj\Debug\netcoreapp2.0\Invoice.AssemblyInfo.cs
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\obj\Debug\netcoreapp2.0\Invoice.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-10\Invoice\Invoice\obj\Debug\netcoreapp2.0\Invoice.pdb
