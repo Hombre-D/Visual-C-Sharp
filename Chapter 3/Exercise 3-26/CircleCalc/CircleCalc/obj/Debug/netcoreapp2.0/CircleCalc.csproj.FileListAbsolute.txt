@@ -1,0 +1,11 @@
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\bin\Debug\netcoreapp2.0\CircleCalc.deps.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\bin\Debug\netcoreapp2.0\CircleCalc.runtimeconfig.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\bin\Debug\netcoreapp2.0\CircleCalc.runtimeconfig.dev.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\bin\Debug\netcoreapp2.0\CircleCalc.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\bin\Debug\netcoreapp2.0\CircleCalc.pdb
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\obj\Debug\netcoreapp2.0\CircleCalc.csprojResolveAssemblyReference.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\obj\Debug\netcoreapp2.0\CircleCalc.csproj.CoreCompileInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\obj\Debug\netcoreapp2.0\CircleCalc.AssemblyInfoInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\obj\Debug\netcoreapp2.0\CircleCalc.AssemblyInfo.cs
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\obj\Debug\netcoreapp2.0\CircleCalc.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 3\Exercise 3-26\CircleCalc\CircleCalc\obj\Debug\netcoreapp2.0\CircleCalc.pdb

@@ -1,0 +1,11 @@
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\bin\Debug\netcoreapp2.0\HeartRate.deps.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\bin\Debug\netcoreapp2.0\HeartRate.runtimeconfig.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\bin\Debug\netcoreapp2.0\HeartRate.runtimeconfig.dev.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\bin\Debug\netcoreapp2.0\HeartRate.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\bin\Debug\netcoreapp2.0\HeartRate.pdb
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\obj\Debug\netcoreapp2.0\HeartRate.csprojResolveAssemblyReference.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\obj\Debug\netcoreapp2.0\HeartRate.csproj.CoreCompileInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\obj\Debug\netcoreapp2.0\HeartRate.AssemblyInfoInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\obj\Debug\netcoreapp2.0\HeartRate.AssemblyInfo.cs
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\obj\Debug\netcoreapp2.0\HeartRate.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-14\HeartRate\HeartRate\obj\Debug\netcoreapp2.0\HeartRate.pdb
