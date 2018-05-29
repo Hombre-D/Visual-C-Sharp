@@ -1,0 +1,26 @@
+
+Calculate and display the mpg earned for each tankful of gas.
+Display the combined miles per gallon for all tankfuls.
+
+Initialize variable gallons
+Initialize variable miles
+Initialize variable mpg
+Initialize variable total gallons
+Initialize variable total miles
+Initialize variable total mpg
+
+Prompt user to enter gallons (or sentinel)
+
+While the user has not entered the sentinel:
+	gallons = gallons entered
+	Prompt user to enter miles
+	miles = miles entered
+	mpg = miles / gallons
+	Display mpg
+	total gallons += gallons
+	total miles += miles
+
+If user has entered sentinel:
+	total mpg = total miles / total gallons
+	Display total mpg	
+	

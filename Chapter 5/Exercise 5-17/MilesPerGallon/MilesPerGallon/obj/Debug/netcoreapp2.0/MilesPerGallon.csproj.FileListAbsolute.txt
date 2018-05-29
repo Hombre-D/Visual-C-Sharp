@@ -1,0 +1,11 @@
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp2.0\MilesPerGallon.deps.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp2.0\MilesPerGallon.runtimeconfig.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp2.0\MilesPerGallon.runtimeconfig.dev.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp2.0\MilesPerGallon.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\bin\Debug\netcoreapp2.0\MilesPerGallon.pdb
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp2.0\MilesPerGallon.csprojResolveAssemblyReference.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp2.0\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp2.0\MilesPerGallon.AssemblyInfoInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp2.0\MilesPerGallon.AssemblyInfo.cs
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp2.0\MilesPerGallon.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-17\MilesPerGallon\MilesPerGallon\obj\Debug\netcoreapp2.0\MilesPerGallon.pdb
