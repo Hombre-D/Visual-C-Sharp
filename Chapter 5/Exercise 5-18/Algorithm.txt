@@ -1,0 +1,18 @@
+Determine whether customers have exceeded their credit limit.
+
+Initialize int account number, balance, charges, credits, credit limit
+
+Ask for input of first customer (or -1 to quit).
+
+While input != -1:
+	Ask for input of balance
+	Ask for input of total charged
+	Ask for input of total paid
+	Ask for input of credit limit
+
+	Calculate new balance (balance + charges - credits)
+	Display new balance
+	If new balance > credit limit:
+		Display "Credit limit exceeded".
+
+	Ask for input of next account number

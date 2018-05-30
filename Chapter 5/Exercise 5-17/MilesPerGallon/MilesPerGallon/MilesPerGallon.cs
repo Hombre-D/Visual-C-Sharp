@@ -26,11 +26,20 @@ class MilesPerGallon
             gallons = int.Parse(Console.ReadLine());
         }
 
-        totalMPG = (double) totalMiles / totalGallons;
-        Console.WriteLine($"Total Gallons: {totalGallons}");
-        Console.WriteLine($"Total Miles: {totalMiles}");
-        Console.WriteLine($"Total MPG: {totalMPG:F}");
-        Console.WriteLine("Thanks for checking your MPG with us today!");
+        if(totalGallons > 0)
+        {
+            totalMPG = (double)totalMiles / totalGallons;
+            Console.WriteLine($"Total Gallons: {totalGallons}");
+            Console.WriteLine($"Total Miles: {totalMiles}");
+            Console.WriteLine($"Total MPG: {totalMPG:F}");
+            Console.WriteLine("Thanks for checking your MPG with us today!");
+        }
+
+        else
+        {
+            Console.WriteLine("No tankfuls of gas entered.");
+        }
+        
     }
 }
 

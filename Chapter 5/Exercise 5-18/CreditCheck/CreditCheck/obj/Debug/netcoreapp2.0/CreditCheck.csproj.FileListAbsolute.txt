@@ -1,0 +1,11 @@
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\bin\Debug\netcoreapp2.0\CreditCheck.deps.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\bin\Debug\netcoreapp2.0\CreditCheck.runtimeconfig.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\bin\Debug\netcoreapp2.0\CreditCheck.runtimeconfig.dev.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\bin\Debug\netcoreapp2.0\CreditCheck.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\bin\Debug\netcoreapp2.0\CreditCheck.pdb
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\obj\Debug\netcoreapp2.0\CreditCheck.csprojResolveAssemblyReference.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\obj\Debug\netcoreapp2.0\CreditCheck.csproj.CoreCompileInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\obj\Debug\netcoreapp2.0\CreditCheck.AssemblyInfoInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\obj\Debug\netcoreapp2.0\CreditCheck.AssemblyInfo.cs
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\obj\Debug\netcoreapp2.0\CreditCheck.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 5\Exercise 5-18\CreditCheck\CreditCheck\obj\Debug\netcoreapp2.0\CreditCheck.pdb
