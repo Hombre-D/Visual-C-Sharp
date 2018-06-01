@@ -1,0 +1,11 @@
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\bin\Debug\netcoreapp2.0\HealthProfile.deps.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\bin\Debug\netcoreapp2.0\HealthProfile.runtimeconfig.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\bin\Debug\netcoreapp2.0\HealthProfile.runtimeconfig.dev.json
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\bin\Debug\netcoreapp2.0\HealthProfile.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\bin\Debug\netcoreapp2.0\HealthProfile.pdb
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\obj\Debug\netcoreapp2.0\HealthProfile.csprojResolveAssemblyReference.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\obj\Debug\netcoreapp2.0\HealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\obj\Debug\netcoreapp2.0\HealthProfile.AssemblyInfoInputs.cache
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\obj\Debug\netcoreapp2.0\HealthProfile.AssemblyInfo.cs
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\obj\Debug\netcoreapp2.0\HealthProfile.dll
+C:\Users\danje\Documents\Visual-C-Sharp\Chapter 4\Exercise 4-15\HealthProfile\HealthProfile\obj\Debug\netcoreapp2.0\HealthProfile.pdb
