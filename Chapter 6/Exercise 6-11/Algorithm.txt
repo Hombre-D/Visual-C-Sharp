@@ -1,0 +1,17 @@
+//App that finds the smallest of several integers.
+
+Initialize variable (int) counter, total, smallest = Max int value.
+
+Ask user for the number of integers to compare, assign to total.
+
+for (int counter, counter < total, counter++):
+	Ask for input of integer.
+	int value = input
+	if value < smallest:
+		smallest = value
+
+
+
+
+
+
