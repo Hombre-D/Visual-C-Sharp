@@ -1,0 +1,15 @@
+//Read two integers, determine if the first is a multiple of the second.
+
+initialize int first, second
+
+display "Multiple Checker"
+display "Enter a number: "
+get input and assign it to first
+display "Enter another number: "
+get input and assign it to second
+
+if first % second = 0:
+	display "[first] is a multiple of [second]"
+
+else:
+	display "[first] is not a multiple of [second]"
