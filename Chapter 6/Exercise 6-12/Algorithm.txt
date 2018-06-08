@@ -1,0 +1,9 @@
+//App that calculates the product of the odd integers from 1 to 7
+
+initialize int total = 1
+
+for int i = 0, i <= 7, ++i:
+	if i % 2 == 0:
+		total *= i
+
+display total
