@@ -1,0 +1,24 @@
+//Calculate parking charges. $2.00 for up to 3 hours, $0.50 per hour (or partial hour) over three hours.
+//Maximum charge is $10.00.
+//App calculates and displays parking charges for each customer, as well as total charges.
+//App must use method CalculateCharges to determine the charge for each customer.
+
+Initialize double hours, decimal charge, total = 0.
+
+Get input of hours for customer (or -1 to quit).
+
+While hours != -1:
+	CalculateCharges(hours), return charge
+	Display charge
+	Total += charge
+	Display total
+	Get next input of hours (or -1 to quit)
+
+Method CalculateCharge(hours):
+	charge = 2.0
+	for(int i = 3, i < Math.Ceiling(hours), ++i):
+		charge += 0.5
+
+	return charge
+		
+
