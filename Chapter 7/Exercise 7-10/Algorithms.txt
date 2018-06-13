@@ -1,0 +1,19 @@
+//Write an app that defines four expression-bodied methods to round a double to nearest integer, nearest tenths,
+//nearest hundredths, and nearest thousandths. Display original value plus all rounded values.
+
+Initialize double number
+Get input and assign to number
+While number != -1:
+	double ints = RoundToInteger(number)
+	double tenths = RoundToTenths(number)
+	double hundredths = RoundToHundredths(number)
+	double thousandths = RoundToThousandths(number)
+	display number, ints, tenths, hundredths, thousandths
+
+
+RoundToInteger(number) => Math.Floor(x + 0.5)
+RoundToTenths(number) => Math.Floor(x * 10 + 0.5) / 10
+RoundToHundredths(number) => Math.Floor(x * 100 + 0.5) / 100
+RoundToThousandths(number) => Math.Floor(x * 1000 + 05) / 1000	
+	
+	
