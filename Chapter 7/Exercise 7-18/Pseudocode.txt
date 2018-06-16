@@ -1,0 +1,10 @@
+//Get an int parameter "side" and print a sold square of asterisks of length/width side.
+
+initialize int side
+
+get input and side = input
+
+method SquareOfAsterisks(side):
+	for (int i = 0, i < side, ++i):
+		for(int j = 0, j < side, ++j):
+			Display "*"
