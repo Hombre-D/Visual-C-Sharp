@@ -1,0 +1,11 @@
+Get int value between 1 and 99999, display each individual digit.
+
+
+
+method DisplayDigits (int a):
+	divisor = 10000
+	for (divisor; divisor >= 10):
+		int digit = a / divisor
+		int remainder = a % divisor
+		Console.Write(digit)
+	 	a = remainder
