@@ -1,0 +1,15 @@
+//Salespeople receive $200 per week plus 9% of their sales for the week.
+//Use one-dimensional array to calculate how many salespeople fall into each salary category.
+
+
+declare int [] range = int [11] //0 and 1 not used, 2-10
+declare int sales = 0
+
+do:
+	get sales input
+	int salary = 200 + (int) sales * 9%
+	++range[salary / 100]
+
+while (sales != -1)
+
+output data using for loop.
