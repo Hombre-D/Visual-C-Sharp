@@ -1,0 +1,19 @@
+//Determine total weekly pay for one salesperson. Rate is $200 plus 9% of sales.
+//Item 1 is worth 239.99, 2 worth 129.75, 3 worth 99.95, 4 worth 350.89.
+
+Initialize decimal totalSales = 0.0m.
+Initialize decimal weeklyPay = 0.0m
+
+Initialize int item1, item2, item3, item4.
+
+Get input and assign to item1, item2, item3, item4.
+
+totalSales += item1 * 239.99
+totalSales += item2 * 129.75
+totalSales += item3 * 99.95
+totalSales += item4 * 350.89
+
+weeklyPay = 200 + totalSales * .09
+
+Display "Total sales: {totalSales}"
+Display "Weekly pay: {weekly pay}"
