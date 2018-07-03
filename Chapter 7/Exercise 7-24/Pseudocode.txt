@@ -1,0 +1,19 @@
+Write method Perfect that determines whether parameter value is perfect.
+Use this method to determines and displays all perfect numbers, along with their factors.
+Check numbers 2-1000 to determine if they are perfect, and display their factors.
+
+
+static void Perfect(int value):
+	int total = 0;
+	string factors;
+	if (value % 2 != 0):
+		//do nothing
+
+	else:
+		for (int i = 0; i < value; ++i):
+			if (value % i == 0):
+				total += i;
+				factors = factors + i + " ";
+	if (total == value):
+		display value "is perfect!"
+		display "Factors: " + factors		
