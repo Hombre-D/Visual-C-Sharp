@@ -1,0 +1,18 @@
+//Use a one-dimensional array to solve the following:
+-Write an app that inputs five numbers, each between 10 and 100, inclusive.
+-As each number is read, display it only if it is not a duplicate number.
+-Use the smallest possible array.
+-Display the complete set of values input after the user inputs each new value.
+
+initialize int[] values = new int[5]
+initialize int counter = 0
+
+for (int i = 0, i <= 4, ++i):
+	get int input, int input = input
+	for(int j = 0, j <= counter, j++):
+		if input = values[j]:
+			break;
+	input = values[counter]
+
+			
+
