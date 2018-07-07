@@ -1,0 +1,17 @@
+-Write an app that inputs a sentence from the user (assuming no punctuation)
+-Then determines and displays the non-duplicate words in alphabetical order (treating uppercase/lowercase the same).
+
+
+initialize string sentence
+
+Get string input, assign to sentence
+string[] splitSentence = sentence.ToLower().Split()
+
+var sortedSentence =
+	from word in sentence
+	orderby word
+	select word
+
+foreach (var element in sortedSentence.Distinct()):
+	Console.WriteLine(element)
+
