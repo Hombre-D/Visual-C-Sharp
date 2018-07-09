@@ -1,0 +1,14 @@
+//Write a method that takes an integer value and returns the number with the integers reversed.
+
+
+Method ReverseDigits (int a):
+	int quotient = a / 10
+	int remainder = a % 10
+	int reverse = remainder
+	while (quotient != 0):
+		int i = 1
+		quotient = a / 10
+		remainder = a % 10
+		reverse = reverse + (remainder * Math.Pow(10, i))
+		++i
+	return reverse
