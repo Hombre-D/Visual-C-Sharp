@@ -1,11 +1,11 @@
 ﻿using System;
 
 
-public class Square : TwoDimensionalShape
+public class Cube : ThreeDimensionalShape
 {
     private decimal side;
 
-    public Square (decimal side)
+    public Cube(decimal side)
     {
         Side = side;
     }
@@ -14,7 +14,15 @@ public class Square : TwoDimensionalShape
     {
         get
         {
-            return Side * Side;
+            return 6 * (Side * Side);
+        }
+    }
+
+    public override decimal Volume
+    {
+        get
+        {
+            return (decimal)Math.Pow((double) Side, 3);
         }
     }
 
@@ -27,7 +35,7 @@ public class Square : TwoDimensionalShape
 
         set
         {
-            if(value < 0)
+            if (value < 0)
             {
                 throw new ArgumentOutOfRangeException(nameof(value), value,
                     $"{nameof(Side)} must be a positive value.");
@@ -39,7 +47,8 @@ public class Square : TwoDimensionalShape
     }
 
     public override string ToString() =>
-        "Square:\n" + $"Area: {Area}\n";
+        "Cube:\n" + $"Area: {Area:F2}\n" + $"Volume: {Volume:F2}\n";
+
+
 
 }
-

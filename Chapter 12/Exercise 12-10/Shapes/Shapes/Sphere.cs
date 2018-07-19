@@ -1,11 +1,11 @@
 ﻿using System;
 
 
-public class Circle : TwoDimensionalShape
+public class Sphere : ThreeDimensionalShape
 {
     private decimal radius;
 
-    public Circle(decimal radius)
+    public Sphere(decimal radius)
     {
         Radius = radius;
     }
@@ -14,7 +14,15 @@ public class Circle : TwoDimensionalShape
     {
         get
         {
-            return (decimal)Math.PI * (radius * radius);
+            return (decimal)(Math.PI * 4) * (radius * radius);
+        }
+    }
+
+    public override decimal Volume
+    {
+        get
+        {
+            return (4.0m / 3.0m) * (decimal) Math.PI * (decimal) Math.Pow((double)Radius, 3);
         }
     }
 
@@ -37,6 +45,8 @@ public class Circle : TwoDimensionalShape
     }
 
     public override string ToString() =>
-        "Circle:\n" + $"Area: {Area:F2}\n";
+        "Sphere:\n" + $"Area: {Area:F2}\n" + $"Volume: {Volume:F2}\n";
+
+
 }
 
