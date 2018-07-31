@@ -34,10 +34,28 @@ namespace Painter
         {
             if (ShouldPaint)
             {
-                panel1.CreateGraphics().FillEllipse(new SolidBrush(Color.BlueViolet),
-                    e.X, e.Y, 4, 4);
-
+                panel1.CreateGraphics().FillEllipse(new SolidBrush(BrushColor()),
+                    e.X, e.Y, BrushSize(), BrushSize());
             }
         }
+
+        private Color BrushColor()
+        {
+            if (radioButtonRed.Checked)
+                return Color.Red;
+            if (radioButtonGreen.Checked)
+                return Color.Green;
+            else return Color.Blue;
+        }
+
+        private int BrushSize()
+        {
+            if (radioButtonSmall.Checked)
+                return 4;
+            if (radioButtonMedium.Checked)
+                return 8;
+            else return 12;
+        }
+
     }
 }

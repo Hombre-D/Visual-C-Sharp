@@ -56,8 +56,12 @@ namespace VirtualKeyboard
             IDictionary<Keys, Button> keys = new Dictionary<Keys, Button>()
                 {{Keys.Q, buttonQ},{Keys.W, buttonW},{Keys.E, buttonE},{Keys.R, buttonR},
                 {Keys.T, buttonT},{Keys.Y, buttonY},{Keys.U, buttonU},{Keys.I, buttonI},
-                {Keys.O, buttonO},{Keys.P, buttonP},
-
+                {Keys.O, buttonO},{Keys.P, buttonP},{Keys.A, buttonA},{Keys.S, buttonS},
+                {Keys.D, buttonD},{Keys.F, buttonF},{Keys.G, buttonG},{Keys.H, buttonH},
+                {Keys.J, buttonJ},{Keys.K, buttonK},{Keys.L, buttonL},{Keys.Z, buttonZ},
+                {Keys.X, buttonX},{Keys.C, buttonC},{Keys.V, buttonV},{Keys.B, buttonB},
+                {Keys.N, buttonN},{Keys.M, buttonM},
+                { Keys.Space, buttonSpace}
                 };
             return keys;
         }
