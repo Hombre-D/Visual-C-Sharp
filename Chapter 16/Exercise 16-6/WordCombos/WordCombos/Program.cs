@@ -11,7 +11,7 @@ class Program
 
         foreach (var word in output)
         {
-            Console.WriteLine(word);
+            Console.Write(word + " ");
         }
 
     }
