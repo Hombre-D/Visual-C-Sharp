@@ -6,6 +6,8 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+using System.Collections.ObjectModel;
+
 
 namespace BooksExamples
 {
@@ -17,7 +19,7 @@ namespace BooksExamples
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Author()
         {
-            this.Titles = new HashSet<Title>();
+            this.Titles = new ObservableCollection<Title>();
         }
     
         public int AuthorID { get; set; }
@@ -25,6 +27,6 @@ namespace BooksExamples
         public string LastName { get; set; }
     
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Title> Titles { get; set; }
+        public virtual ObservableCollection<Title> Titles { get; set; }
     }
 }

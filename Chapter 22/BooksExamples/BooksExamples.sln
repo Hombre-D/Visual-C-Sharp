@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayQueryResult", "Displ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoinQueries", "JoinQueries\JoinQueries.csproj", "{A41C6E8C-B15B-41F7-9C31-101E586882F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterDetail", "MasterDetail\MasterDetail.csproj", "{B8CC30E6-4A45-4C60-B01E-0AE09C16F728}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A41C6E8C-B15B-41F7-9C31-101E586882F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A41C6E8C-B15B-41F7-9C31-101E586882F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A41C6E8C-B15B-41F7-9C31-101E586882F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CC30E6-4A45-4C60-B01E-0AE09C16F728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CC30E6-4A45-4C60-B01E-0AE09C16F728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CC30E6-4A45-4C60-B01E-0AE09C16F728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CC30E6-4A45-4C60-B01E-0AE09C16F728}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
